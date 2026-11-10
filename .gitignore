@@ -1,0 +1,6 @@
+# Arduino 构建产物
+HomeKitLight/build/
+build/
+
+# 系统
+.DS_Store
